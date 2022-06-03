@@ -1,0 +1,9 @@
+matplotlib
+pandas
+pandas-ta
+numpy
+pandas_datareader
+requests
+mplfinance
+beautifulsoup4
+mljar-mercury
