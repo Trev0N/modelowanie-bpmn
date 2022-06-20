@@ -7,3 +7,5 @@ requests
 mplfinance
 beautifulsoup4
 mljar-mercury
+more_itertools
+ipywidgets
